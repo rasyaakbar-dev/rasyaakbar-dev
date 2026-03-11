@@ -4,23 +4,15 @@
 
 This profile focuses on repositories, contributions, and activity within GitHub.
 
-## Repository Highlights
+## Notes
 
-### Featured Repositories
+- I use this profile to publish small, focused projects and experiments.
+- Repositories are kept minimal; documentation lives close to the code.
+- Older projects may reflect learning stages rather than production standards.
+- Issues and discussions are welcome when clearly scoped.
 
-| Repository                | Description                                       | Status |
-|---------------------------|---------------------------------------------------|--------|
-| ExpenseTracker.CLI        | CLI tool in C# for tracking daily expense         | Active |
-| Odoo-Module               | Small, custom Odoo module for learning purpose    | Active |
+## License
 
-## GitHub Statistics
+The MIT License. Unless stated otherwise, projects may include their own licenses in each repository.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasyaakbar-dev&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasyaakbar-dev&layout=compact)
-
-## Contribution Activity
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rasyaakbar-dev)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasyaakbar-dev)
+**Find more about me:** [Pages](https://rasyaakbar-dev.github.io/) · [Repositories](https://github.com/rasyaakbar-dev?tab=repositories) · [Stars](https://github.com/rasyaakbar-dev?tab=stars)
