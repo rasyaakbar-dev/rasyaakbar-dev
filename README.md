@@ -2,7 +2,7 @@
 
 ## Overview
 
-This profile focuses on repositories, contributions, and activity within GitHub.
+This GitHub profile focuses on repositories, contributions, and activity within GitHub.
 
 ## Repository Highlights
 
