@@ -1,62 +1,26 @@
 # Profile
 
-## Current Focus
+## Overview
 
-- Building small tools and utilities
-- Finishing my internship and getting free cerfication
-- Exploring fundamental computer science material
-- Learning new languages and frameworks
+This profile focuses on repositories, contributions, and activity within GitHub.
 
-## Technical Skills
+## Repository Highlights
 
-### Languages
+### Featured Repositories
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- Java
+| Repository                | Description                                       | Status |
+|---------------------------|---------------------------------------------------|--------|
+| ExpenseTracker.CLI        | CLI tool in C# for tracking daily expense         | Active |
+| Odoo-Module               | Small, custom Odoo module for learning purpose    | Active |
 
-### Frameworks and Libraries
+## GitHub Statistics
 
-- Node.js
-- Odoo
-- React
-- Next.js
-- FastAPI
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasyaakbar-dev&show_icons=true)
 
-### Databases
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasyaakbar-dev&layout=compact)
 
-- PostgreSQL
+## Contribution Activity
 
-### Infrastructure and DevOps
+![GitHub Streak](https://streak-stats.demolab.com/?user=rasyaakbar-dev)
 
-- Docker
-- Linux
-
-### Development Tools
-
-- Git
-- GitHub
-- VS Code
-
-## Development Environment
-
-| Category        | Example         |
-| --------------- | ----------------|
-| OS              | Debian 13       |
-| Editor          | VS Code         |
-| Terminal        | Bash            |
-| Version Control | Git             |
-| Container Tools | Docker          |
-
-## Notes
-
-- I use this profile to publish small, focused projects and experiments.
-- Repositories are kept minimal; documentation lives close to the code.
-- Older projects may reflect learning stages rather than production standards.
-- Issues and discussions are welcome when clearly scoped.
-
-## More About Me
-
-[GitHub User Profile](https://rasyaakbar-dev.github.io/)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasyaakbar-dev)
