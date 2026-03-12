@@ -1,8 +1,4 @@
-# Profile
-
 # Overview
-
-Small projects, experiments, and developer tools.
 
 ## About
 
