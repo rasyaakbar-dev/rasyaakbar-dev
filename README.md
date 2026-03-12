@@ -1,7 +1,5 @@
 # Overview
 
-## About
-
 I keep repositories minimal and focused on a single idea.
 Documentation usually lives inside the project.
 
